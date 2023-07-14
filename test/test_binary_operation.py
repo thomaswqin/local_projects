@@ -1,6 +1,6 @@
 import unittest as ut
 
-from leetcode.binary_operation import set_0, set_1, set_digit
+from lectures.binary_operation import set_0, set_1, set_digit
 
 
 class TestBinaryOperation(ut.TestCase):
